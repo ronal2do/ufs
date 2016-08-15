@@ -1,0 +1,413 @@
+{
+    "Produtos":
+      [
+              {
+                "nome": "Acerola",
+                "name": "Acerola",
+                "index": "A",
+                "tipo": "Orgânicos"
+              },  
+              {
+                "nome": "Banana",
+                "name": "Banana",
+                "index": "B",
+                "tipo": "Orgânicos"
+              },
+              {
+                "nome":"Caju  ",
+                "name":"Cashew",
+                "index":"C",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Goiaba  ",
+                "name":"Gava",
+                "index":"G",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Manga ",
+                "name":"Mango",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Melao ",
+                "name":"Melon",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Mamao ",
+                "name":"Papaya",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Melância  ",
+                "name":"watermelon",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Marácuja  ",
+                "name":"Passion fruit",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Abacaxi ",
+                "name":"Pineapple",
+                "index":"A",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Sapoti  ",
+                "name":"Sapoti",
+                "index":"S",
+                "tipo":"Orgânicos"
+              },
+              {
+                 "nome" : " Polpa de Açai com Guaraná",
+                 "name":"Açai pulp with guaraná",
+                 "index":"A",
+                 "tipo":"Orgânicos"
+              },
+              {
+                 "nome" : " Polpa de Açai com Makai",
+                 "name":"Açai pulp with makai",
+                 "index":"A",
+                 "tipo":"Orgânicos"
+             },
+              {
+                  "nome" : "Polpa de Açai Puro",
+                  "name":"Açai pulp",
+                  "index":"A",
+                  "tipo":"Orgânicos"
+              },
+              {
+                  "nome" : "Polpa de Açai Puro com cítrico",
+                  "name":"Açai pulp with citric acid",
+                  "index":"A",
+                  "tipo":"Orgânicos"
+              },
+              {
+                  "nome" : "Suco de laranja integral",
+                  "name":"Orange juice",
+                  "index":"L",
+                  "tipo":"Orgânicos"
+              },
+              {
+                "nome" : "Suco de laranja concentrado",
+                 "name":"Orange juice concentraded",
+                 "index":"L",
+                 "tipo":"Orgânicos"
+             },
+              {
+                "nome" : "Laranja",
+                 "name":"Orange",
+                 "index":"L",
+                 "tipo":"Orgânicos"
+             },
+              {
+                 "nome" : "Açucar ",
+                 "name":"Sugar cane",
+                 "index":"A",
+                 "tipo":"Orgânicos"
+             },
+              {
+                 "nome" : "Polpa de goiaba",
+                 "name":"Gava pulp",
+                 "index":"G",
+                 "tipo":"Orgânicos"
+             },
+              {
+                "nome" : "Polpa de manga",
+                "name":"Mango pulp",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Suco de limão integral  ",
+                "name":"Lemon juice",
+                "index":"L",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Côco  ",
+                "name":"Coconut",
+                "index":"C",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Café em graos ",
+                "name":"Coffee beans",
+                "index":"C",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Café torrado e moido  ",
+                "name":"Coffee beans toasted and ground",
+                "index":"C",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Polpa de cupuaçu  ",
+                "name":"Cupuaçu pulp",
+                "index":"C",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Manteiga de cupuaçu ",
+                "name":"Cupuaçu butter",
+                "index":"C",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Palmito em conserva ",
+                "name":"Palm heart(canned)",
+                "index":"P",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Palmito pupunha ",
+                "name":"Palm heart",
+                "index":"P",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Amendoim  ",
+                "name":"Peanut",
+                "index":"A",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Mandioca  ",
+                "name":"Cassava",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Castanha do brasil ",
+                 "name":"Brazil nut",
+                 "index":"C",
+                 "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Polpa de acerola ",
+                 "name":"Acerola pulp",
+                 "index":"A",
+                 "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Polpa de acerola concentrada ",
+                 "name":"Acerola pulp concentrated",
+                 "index":"A",
+                 "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Polpa de goiaba concentrada ",
+                "name":"Gava pulp concentrated",
+                "index":"G",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Óleo essencial de limão",
+                 "name":"Lemon essential oil",
+                 "index":"L",
+                 "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Óleo essencial de mandarina ",
+                "name":"Mandarim essential oil",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Óleo essencial de laranja",
+                 "name":"Orange essential oil",
+                 "index":"L",
+                 "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Suco concentrado de limão ",
+                "name":"Lemon juice concentrated",
+                "index":"L",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Suco de mandarina integral ",
+                 "name":"Mandarim juice",
+                 "index":"M",
+                 "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Suco de mandarina concentrado ",
+                "name":"Mandarim juice concentrated",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Polpa de manga concentrado ",
+                 "name":"Mango pulp concentrated",
+                 "index":"M",
+                 "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Suco de maracuja concentrado ",
+                 "name":"Passion fruit pulp concentrated",
+                 "index":"M",
+                 "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Guaraná em grao  ",
+                 "name":"Guaraná beans",
+                 "index":"G",
+                 "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Guaraná em po ",
+                "name":"Guaraná in powder",
+                "index":"G",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Mel ",
+                "name":"In natura honey",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Polpa de abacaxi ",
+                 "name":"Pineapple pulp",
+                 "index":"P",
+                 "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Polpa de maracuja ",
+                "name":"Passion fruit pulp",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Banana com açai Liofilizado ",
+                "name":"Banana with açai, freeze dried",
+                "index":"B",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Banana com canela Liofilizado ",
+                "name":"Banana with cinamon, freeze dried",
+                "index":"B",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Banana com goiaba Liofilizado ",
+                "name":"Banana with guava, freeze dried",
+                "index":"B",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Banana Liofilizado  ",
+                "name":"Banana freeze dried",
+                "index":"B",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Acerola Liofilizado ",
+                "name":"Acerola, freeze dried",
+                "index":"A",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Banana com acerola Liofilizado  ",
+                "name":"Banana with acerola freeze dried",
+                "index":"B",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Goiaba Liofilizado  ",
+                "name":"Guava freeze dried",
+                "index":"G",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Limão Liofilizado ",
+                "name":"Lemon freeze dried",
+                "index":"L",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Manga Liofilizado ",
+                "name":"Mango freeze dried",
+                "index":"M",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Açai em po",
+                "name":"Açai in powder",
+                "index":"A",
+                "tipo":"Orgânicos"
+              },
+              {
+                "nome":"Polpa de Açai Puro  ",
+                "name":"Açai pulp",
+                "index":"A",
+                "tipo":"Não orgânicos"
+              },
+              {
+                "nome":"Polpa de Açai Puro com cítrico",
+                "name":"Açai pulp with citric acid",
+                "index":"A",
+                "tipo":"Não orgânicos"
+              },
+              {
+                "nome":"Suco de laranja integral  ",
+                "name":"Orange juice",
+                "index":"L",
+                "tipo":"Não orgânicos"
+              },
+              {
+                "nome":"Suco de laranja concentrado ",
+                "name":"Orange juice concentraded",
+                "index":"L",
+                "tipo":"Não orgânicos"
+              },
+              {
+                "nome":"Castanha do brasil  ",
+                "name":"Brazil nut",
+                "index":"C",
+                "tipo":"Não orgânicos"
+              },
+              {
+                "nome":"Açai em pó  ",
+                "name":"Açai in powder",
+                "index":"A",
+                "tipo":"Não orgânicos"
+              },
+              {
+                "nome":"Polpa de acerola  ",
+                "name":"Acerola pulp",
+                "index":"A",
+                "tipo":"Não orgânicos"
+              },
+              {
+                "nome":"Polpa de acerola concentrada  ",
+                "name":"Acerola pulp concentrated",
+                "index":"A",
+                "tipo":"Não orgânicos"
+              },
+              {
+                "nome":"Polpa de abacaxi concentrada",
+                "name":"Pineapple pulp concentraded",
+                "index":"A",
+                "tipo":"Não orgânicos"
+              },
+              {
+                "nome":"Óleo essencial de citronela ",
+                "name":"Citronela essential oil",
+                "index":"C",
+                "tipo":"Não orgânicos"
+              }
+      ]
+  }
