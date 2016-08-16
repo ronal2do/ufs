@@ -2,11 +2,8 @@ $('.carousel').carousel({
   interval: 1500
 })
 
-       
 //modal
 $('#myModal').modal('show')   
-
-
 
 //scrol
 
