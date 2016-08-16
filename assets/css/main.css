@@ -95,9 +95,8 @@ section{
 		justify-content: center;
 }
 .Institucional{
-	background-color:#c5c5c5; 
-
-	background-image: url('../imgs/empresa.jpg');
+	background-color: #282828;
+	/* background-image: url('../imgs/empresa.jpg'); */
 	background-size: cover;
 	background-position: center;
 	color:#fff;
@@ -115,7 +114,10 @@ section{
 	color:#FFF;
 }
 .Servicos{
-	background-color:#2E1D1F; 
+	background-color: #636363;
+	background-image: url('../imgs/frota.png'); 
+	background-size: cover;
+	background-position: center;
 	color: #fff;
 }
 .Servicos h1{
