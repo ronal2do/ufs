@@ -199,24 +199,13 @@ section{
 	bottom: 0;
 }
 .Segmento{
-	width: calc(100vw / 5);
+	width: 100vw;
 	text-align: center;
-	height: 75px;
-	background: #2E1D1F;
+	height: 65px;
+	background: #74a7f6;
 	color:#fff;
 }
-.Segmento:nth-child(2) {
-    background: #713C46;
-}
-.Segmento:nth-child(3) {
-    background: #DD6C5B;
-}
-.Segmento:nth-child(4) {
-    background: #C3CF8F;
-}
-.Segmento:nth-child(5) {
-    background: #74a7f6;
-}
+
 .Losango{
 	display: inline-flex;
     position: absolute;
@@ -406,7 +395,7 @@ a.Filtro-Item{
 @media (min-width: 544px) { ... }
 
 @media (min-width: 768px) { 
-	section:not(#produtos){
+	section:not(#produtos):not(#contato){
 		height: 100vh;
 	}
 	h1{
@@ -465,10 +454,11 @@ a.Filtro-Item{
 	    height: 141px;
 	}
 	.Segmento{
-		width: calc(100vw / 5);
+		width: 100vw;
 		text-align: center;
-		height: 100px;
-		background: #2E1D1F;
+		height: 60px;
+		padding-top: 15px;
+		background: #74a7f6;
 		color:#fff;
 	}
 	.Segmento:nth-child(1) svg{

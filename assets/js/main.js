@@ -1,5 +1,6 @@
 var translationsEN = {
   HEADLINE: 'Comfort, speed and safety.',
+  BLINDADOS: 'Besides comfort, total security. New fleet of armored vehicles.',
   INSTITUCIONAL:'Our company',
   INSTITUCIONALPARA:'We are more than a decade carrying executives with the highest quality , our success story achieved day by day improving punctuality, responsibility, speed and safety.',
   INSTITUCIONALPARASEG:'We have a highly qualified team to provide excellence to the quality standards demanded by executives and employees of your company.',
@@ -26,6 +27,7 @@ var translationsEN = {
  
 var translationsBR = {
   HEADLINE: 'Conforto, rapidez e segurança.',
+  BLINDADOS: 'Alêm de conforto, segurança total. Nova frota de blindados.',
   INSTITUCIONAL:'Nossa empresa',
   INSTITUCIONALPARA:'Estamos a mais de uma década transportando executivos com a mais alta qualidade, nossa história de sucesso conquistamos no dia a dia aprimorando pontualidade, responsabilidade, rapidez e segurança.',
   INSTITUCIONALPARASEG:'Contamos com uma equipe altamente qualificada para atender com excelência aos padrões de qualidade exigida pelos executivos e colaboradores de sua empresa.',
